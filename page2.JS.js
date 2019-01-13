@@ -1,7 +1,7 @@
 var books = [{
     title: "Hederskriget",
     author: "Andreas Danielson",
-    src: '1vk_1.jpg',
+    src: '1VK_1.jpg',
     price: 230,
     link:"page3.html",
 },
